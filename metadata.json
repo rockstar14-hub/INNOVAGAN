@@ -1,0 +1,6 @@
+{
+  "name": "INNOVAGAN - Ganadería Regenerativa & Plataforma AgTech",
+  "description": "Plataforma AgTech para ganadería regenerativa de alta eficiencia: catálogo bovino con trazabilidad y GMD, monitoreo IoT de fertirriego y sensores TDR, calculadora de ROI y asistente técnico inteligente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
